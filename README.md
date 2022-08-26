@@ -1,2 +1,1 @@
-# -JS
-Слайдер JS
+https://github.com/Sashalitvit/Slider
